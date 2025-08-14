@@ -4,8 +4,7 @@
 **Published in:** *Lecture Notes in Networks and Systems* (Springer), Proceedings of the 20th International Conference on Computing and Information Technology (IC2IT 2024)  
 **Paper Link:** [📄 Read the Full Chapter on SpringerLink](https://doi.org/10.1007/978-3-031-58561-6_9)  
 **DOI:** 10.1007/978-3-031-58561-6_9  
-**First Online:** 15 May 2024 :contentReference[oaicite:0]{index=0}
-
+**First Online:** 15 May 2024 
 ---
 
 ##  Abstract
